@@ -3,10 +3,10 @@
 | XTENSION | Image extension                                 |              |
 | BITPIX   | array data type                                 |              |
 | NAXIS    | number of array dimensions                      |              |
-| NAXIS1   |                                                 |              |
-| NAXIS2   |                                                 |              |
-| NAXIS3   |                                                 |              |
-| NAXIS4   |                                                 |              |
+| NAXIS1   |                                                 |Number of Pixels in the X direction index left to right|
+| NAXIS2   |                                                 |Number of Pixels in the Y direction index bottom to top|
+| NAXIS3   |                                                 |Number of Groups|
+| NAXIS4   |                                                 |Number of integrations|
 | PCOUNT   | number of parameters                            |              |
 | GCOUNT   | number of groups                                |              |
 | BSCALE   |                                                 |              |
